@@ -1,6 +1,5 @@
 <?php
 
-// Abstração: pessoa pode ser um objeto, e sera um estudante, visitante, professor ou servidor
 class Pessoa 
 {
 protected $nome;
